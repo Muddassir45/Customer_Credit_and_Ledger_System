@@ -30,7 +30,7 @@ A modern React UI for a Credit Ledger System (Udhar Ledger) that allows customer
 ## 📌 Screenshots
 
 ### Home Page
-![Home](./Screenshots/img1.png)
+![Home](./Screenshots/img.png)
 
 ### Customer Login
 ![Customer Login](./Screenshots/img2.png)
