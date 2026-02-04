@@ -35,20 +35,22 @@ A modern React UI for a Credit Ledger System (Udhar Ledger) that allows customer
 ### Customer Login
 ![Customer Login](./Screenshots/img2.png)
 
-### OTP Verification
-![OTP Verification](./Screenshots/img3.png)
-
-### Customer Dashboard
-![Customer Dashboard](./Screenshots/img4.png)
-
-### Add Expense
-![Add Expense](./Screenshots/img5.png)
+### Owner Registration
+![Owner Registrartion](./Screenshots/img3.png)
 
 ### Owner Dashboard
-![Owner Dashboard](./Screenshots/img6.png)
+![Owner Dashboard](./Screenshots/img4.png)
 
-### Add Customer
-![Add Customer](./Screenshots/img7.png)
+### Old customers
+![old customers](./Screenshots/img5.png)
+
+### Owner customer ledger
+![customer ledger](./Screenshots/img6.png)
+
+### Customer Dashboard
+![ Customer Dashboard](./Screenshots/img7.png)
+
+
 
 ---
 
