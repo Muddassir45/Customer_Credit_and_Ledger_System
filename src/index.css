@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+
+/* full screen background */
+body {
+  margin: 0;
+}
+
+.bg-ledger {
+  background-image: url("/bg.jpg");
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+}
+
+/* overlay */
+.overlay {
+  background: rgba(0, 0, 0, 0.6);
+  min-height: 100vh;
+}
+
+/* animated welcome text */
+.welcome-text {
+  white-space: nowrap;
+  animation: slideText 10s linear infinite;
+}
+
+@keyframes slideText {
+  from {
+    transform: translateX(100%);
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}
